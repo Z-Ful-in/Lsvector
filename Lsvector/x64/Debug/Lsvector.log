@@ -1,0 +1,9 @@
+﻿  源.cpp
+D:\Fulin~\Lsvector\Lsvector\lssstack.h(166,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Fulin~\Lsvector\Lsvector\源.cpp(8,43): warning C4244: “参数”: 从“double”转换到“const T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Fulin~\Lsvector\Lsvector\源.cpp(8,15): warning C4244: “参数”: 从“float”转换到“Rank”，可能丢失数据
+  Lsvector.vcxproj -> D:\Fulin~\Lsvector\x64\Debug\Lsvector.exe
